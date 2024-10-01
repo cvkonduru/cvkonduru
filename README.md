@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Chaitanya Varma
 - 👀 I’m interested in Smart contract development, Smart contract auditing and Self-sovereign Identity
-- 🌱 I’m currently learning Smart contract auditing
-- 💞️ I’m looking to collaborate on SSI
+- 🌱 I’m currently learning Smart contract auditing and Zero Knowledge math.
+- 💞️ I’m looking to collaborate on Project with Zero Knowledge proofs and Ethereum Scalability
 - 📫 How to reach me cvkonduru@gmail.com
 
 <!---
